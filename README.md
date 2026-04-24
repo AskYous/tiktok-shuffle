@@ -2,9 +2,9 @@
 
 A shuffle player for your TikTok collections.
 
-TikTok lets you save videos into collections but gives you no shuffle button. With a 300-video collection, the videos you saved early effectively disappear — you only ever rewatch the most recent ones. This project fixes that.
+### ▶ [Open the live player](https://askyous.github.io/tiktok-shuffle/player.html)
 
-**Live player:** https://askyous.github.io/tiktok-shuffle/player.html
+TikTok lets you save videos into collections but gives you no shuffle button. With a 300-video collection, the videos you saved early effectively disappear — you only ever rewatch the most recent ones. This project fixes that.
 
 ## How it works
 
